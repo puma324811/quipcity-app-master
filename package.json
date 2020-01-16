@@ -1,0 +1,36 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "0.0.40",
+    "babel-plugin-transform-remove-console": "^6.9.1",
+    "react-test-renderer": "16.0.0",
+    "jest-expo": "~24.0.0"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^24.0.0",
+    "fbemitter": "^2.1.1",
+    "moment": "^2.18.0",
+    "react": "16.0.0",
+    "react-mixin": "^2.0.2",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
+    "react-native-facebook-login": "^1.4.0",
+    "react-native-keyboard-aware-view": "0.0.12",
+    "react-native-settings-list": "^1.4.0",
+    "react-navigation": "1.0.0-beta.21",
+    "react-timer-mixin": "^0.13.3",
+    "rx": "^4.1.0"
+  }
+}
