@@ -20,12 +20,12 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "^24.0.0",
+    "expo": "^25.0.0",
     "fbemitter": "^2.1.1",
     "moment": "^2.18.0",
-    "react": "16.0.0",
+    "react": "16.2.0",
     "react-mixin": "^2.0.2",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
     "react-native-facebook-login": "^1.4.0",
     "react-native-keyboard-aware-view": "0.0.12",
     "react-native-settings-list": "^1.4.0",

@@ -3,7 +3,7 @@
     "name": "QuipCity",
     "icon":"http://i.imgur.com/KiUaRAV.png",
     "facebookScheme":"fb1282207108532465",
-    "sdkVersion": "24.0.0",
+    "sdkVersion": "25.0.0",
     "orientation": "portrait",
     "version":"1.0.0",
     "slug":"quipcity",
