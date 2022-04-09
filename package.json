@@ -22,7 +22,7 @@
   "dependencies": {
     "expo": "^24.0.0",
     "fbemitter": "^2.1.1",
-    "moment": "^2.18.0",
+    "moment": "^2.29.2",
     "react": "16.0.0",
     "react-mixin": "^2.0.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
